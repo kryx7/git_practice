@@ -6,6 +6,7 @@ header{
   width: 100%;
   border-bottom: 1px solid black;
   justify-content: space-between;
+  background-color: white;
 }
 .logo{
   color:mediumaquamarine;
@@ -22,4 +23,22 @@ nav span{
 }
 nav{
   padding-right: 40px;
+}
+.main{
+  border: 1px solid black;
+  display: flex;
+  padding: 80px 40px;
+
+}
+.big{
+  border: 1px solid black;
+  width: 630px;
+}
+.medium{
+  border: 1px solid black;
+  width: 300px;
+}
+.small{
+  border: 1px solid black;
+  width: 240px;
 }
